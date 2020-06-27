@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/misc.xml
+
+.idea/ReactProject.iml
+.idea/modules.xml
+.idea/vcs.xml
+
+*.csv

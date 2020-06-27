@@ -1,2 +1,0 @@
-# ReactProject
-First React Project
